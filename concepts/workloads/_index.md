@@ -1,4 +1,4 @@
 # Workloads
 
-- [Pods](concepts/workloads/pods/_index.md)
+- [Pods](pods/_index.md)
 

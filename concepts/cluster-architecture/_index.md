@@ -1,4 +1,4 @@
 # Cluster Architecture
 
-- [控制器](concepts/cluster-architecture/controllers.md)
+- [控制器](controllers.md)
 
