@@ -1,5 +1,3 @@
-
-
 # Pod Overview
 
 Pod 是 Kubernetes 对象模型中最小的可部署对象。
