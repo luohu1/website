@@ -16,6 +16,9 @@ kubernetes-docs 是作者学习 [Kubernetes v1.18 官方文档](https://kubernet
       - [Pod 概述](concepts/workloads/pods/pod-overview.md)
       - [Pods](concepts/workloads/pods/pods.md)
       - [Pod 生命周期](concepts/workloads/pods/pod-lifecycle.md)
+      - [Init 容器](concepts/workloads/pods/init-containers.md)
+      - [Pod Preset](concepts/workloads/pods/pod-preset.md)
+      - [Pod 拓扑扩展约束](concepts/workloads/pods/pod-topology-spread-constraints.md)
 
 ## 参考链接
 
