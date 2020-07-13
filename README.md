@@ -19,6 +19,7 @@ kubernetes-docs 是作者学习 [Kubernetes v1.18 官方文档](https://kubernet
       - [Init 容器](concepts/workloads/pods/init-containers.md)
       - [Pod Preset](concepts/workloads/pods/pod-preset.md)
       - [Pod 拓扑扩展约束](concepts/workloads/pods/pod-topology-spread-constraints.md)
+      - [干扰](concepts/workloads/pods/disruptions.md)
 
 ## 参考链接
 

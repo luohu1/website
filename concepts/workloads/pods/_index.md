@@ -6,7 +6,7 @@
 - [Init 容器](init-containers.md)
 - [Pod Preset](pod-preset.md)
 - [Pod 拓扑扩展约束](pod-topology-spread-constraints.md)
-- Disruptions
+- [干扰](disruptions.md)
 - Ephemeral Containers
 
 
