@@ -6,6 +6,21 @@ theme = ["ananke"]
 metaDataFormat = "yaml"
 sectionPagesMenu = "main"
 
+# Language settings
+contentDir = "content/zh"
+defaultContentLanguage = "zh"
+defaultContentLanguageInSubdir = false
+
 [params]
 github = "https://github.com/luohu1"
+
+# Language definitions.
+
+[languages]
+[languages.zh]
+# title = ""
+# description = ""
+languageName = "中文 Chinese"
+weight = 1
+contentDir = "content/zh"
 
