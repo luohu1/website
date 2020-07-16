@@ -1,4 +1,4 @@
-baseURL = "https://ipyth.com"
+baseURL = "https://www.ipyth.com"
 title = "Website"
 
 theme = ["ananke"]
