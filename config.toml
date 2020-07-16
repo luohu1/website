@@ -1,0 +1,11 @@
+baseURL = "https://ipyth.com"
+title = "Website"
+
+theme = ["ananke"]
+
+metaDataFormat = "yaml"
+sectionPagesMenu = "main"
+
+[params]
+github = "https://github.com/luohu1"
+
