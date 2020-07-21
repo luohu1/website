@@ -11,6 +11,9 @@ contentDir: "content/zh"
 defaultContentLanguage: "zh"
 defaultContentLanguageInSubdir: false
 
+permalinks:
+  blog: "/:section/:year/:month/:day/:filename/"
+
 params:
   github: "https://github.com/luohu1"
 
