@@ -1,7 +1,7 @@
 baseURL: "https://www.ipyth.com"
 title: "Website"
 
-theme: ["ananke"]
+theme: ["docsy"]
 
 metaDataFormat: "yaml"
 sectionPagesMenu: "main"
@@ -10,6 +10,12 @@ sectionPagesMenu: "main"
 contentDir: "content/zh"
 defaultContentLanguage: "zh"
 defaultContentLanguageInSubdir: false
+
+# Highlighting config.
+pygmentsCodeFences: true
+pygmentsUseClasses: false
+pygmentsUseClassic: false
+pygmentsStyle: "emacs"
 
 permalinks:
   blog: "/:section/:year/:month/:day/:filename/"
