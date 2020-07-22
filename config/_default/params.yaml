@@ -1,2 +1,12 @@
 # params:
-github: "https://github.com/luohu1"
+copyright: "LH"
+github_project_repo: "https://github.com/luohu1/website"
+links:
+  user:
+    - name: "User mailing list"
+      url: "https://github.com/luohu1"
+      icon: "fa fa-envelope"
+  developer:
+    - name: "GitHub"
+      url: "https://github.com/luohu1"
+      icon: "fab fa-github"
