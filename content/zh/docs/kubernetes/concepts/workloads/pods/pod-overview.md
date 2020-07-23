@@ -1,6 +1,7 @@
 ---
 title: "Pod Overview"
 date: 2020-07-23T16:43:26+08:00
+weight: 11411
 ---
 
 Pod 是 Kubernetes 对象模型中最小的可部署对象。

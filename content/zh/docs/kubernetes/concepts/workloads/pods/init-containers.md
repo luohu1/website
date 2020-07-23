@@ -1,6 +1,7 @@
 ---
 title: "Init 容器"
 date: 2020-07-23T16:43:26+08:00
+weight: 11414
 ---
 
 本页提供了 Init 容器的概览：它是一种专用的容器，在 [Pod](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/) 内的应用容器启动之前运行。Init 容器包括一些应用镜像中不存在的实用工具和安装脚本。

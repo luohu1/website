@@ -2,6 +2,7 @@
 ---
 title: "Pod Lifecycle"
 date: 2020-07-23T16:43:26+08:00
+weight: 11413
 ---
 
 该页面将描述 Pod 的生命周期。
