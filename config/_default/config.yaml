@@ -4,7 +4,7 @@ title: "Website"
 theme: ["docsy"]
 
 metaDataFormat: "yaml"
-sectionPagesMenu: "main"
+# sectionPagesMenu: "main"
 
 # Language settings
 contentDir: "content/zh"
