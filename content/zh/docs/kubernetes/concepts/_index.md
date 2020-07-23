@@ -1,4 +1,7 @@
-# 概念篇
+---
+title: "Concepts"
+date: 2020-07-23T16:43:26+08:00
+---
 
 - [概述](overview/_index.md)
 - [集群架构](cluster-architecture/_index.md)

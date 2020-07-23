@@ -1,4 +1,7 @@
-# Kubernetes Components
+---
+title: "Kubernetes Components"
+date: 2020-07-23T16:43:26+08:00
+---
 
 当你部署完 Kubernetes, 你就有了一个集群
 
