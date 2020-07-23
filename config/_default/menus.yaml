@@ -2,7 +2,7 @@ main:
   - name: Documentation
     url: "/docs"
     weight: 10
-  - name: Blog
+  - name: Blogs
     url: "/blog"
     weight: 20
   - name: About
