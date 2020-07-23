@@ -19,3 +19,8 @@ pygmentsStyle: "emacs"
 
 permalinks:
   blog: "/:section/:year/:month/:day/:filename/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
