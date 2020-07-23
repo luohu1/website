@@ -3,6 +3,9 @@ copyright: "LH"
 github: "https://github.com/luohu1/website"
 github_project_repo: "https://github.com/luohu1/website"
 
+time_format_blog: "2006-01-02 15:04PM Monday"
+time_format_default: "2006-01-02 15:04PM Monday"
+
 # Search settings
 offlineSearch: true
 offlineSearchSummaryLength: 70
