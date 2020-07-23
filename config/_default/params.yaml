@@ -2,6 +2,12 @@
 copyright: "LH"
 github: "https://github.com/luohu1/website"
 github_project_repo: "https://github.com/luohu1/website"
+
+# Search settings
+offlineSearch: true
+offlineSearchSummaryLength: 70
+offlineSearchMaxResults: 10
+
 links:
   user:
     - name: "User mailing list"
