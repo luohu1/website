@@ -5,7 +5,7 @@ date: 2020-07-27T13:51:23+08:00
 author: LH
 ---
 
-> 此文章为 [CoreOS Blog：The Prometheus Operator](https://coreos.com/blog/the-prometheus-operator.html) 的译文。
+> 此文章为 [CoreOS Blog：The Prometheus Operator](https://coreos.com/blog/the-prometheus-operator.html) 的译文。原文由 *Fabian Reinartz* 在 2016 年 11 月 3 日发表。文章内容已经过时，因此仅作为理解 Operator 的参考文章。
 
 **Note: 这篇文章中的说明已过期。**要尝试 Prometheus Operator，请查看最新的 [Prometheus 文档](https://coreos.com/operators/prometheus/docs/latest/user-guides/getting-started.html) ，以获取最新的入门指南。
 
