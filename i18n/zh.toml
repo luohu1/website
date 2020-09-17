@@ -1,0 +1,9 @@
+[ui_search]
+other = "Search"
+
+[post_edit_this]
+other = "Edit on GitHub"
+
+[post_create_issue]
+other = "Report issues"
+
