@@ -15,8 +15,8 @@
     "type": "git",
     "url": "git+https://github.com/luohu1/website.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "luohu1",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/luohu1/website/issues"
   },
