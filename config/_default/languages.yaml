@@ -1,8 +1,0 @@
-# Language definitions.
-# languages:
-zh:
-  # title: ""
-  # description: ""
-  languageName: "中文 Chinese"
-  weight: 1
-  contentDir: "content/zh"

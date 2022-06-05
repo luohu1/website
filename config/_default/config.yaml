@@ -24,3 +24,46 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+params:
+  copyright: "LH"
+  github: "https://github.com/luohu1/website"
+  github_repo: "https://github.com/luohu1/website"
+
+  time_format_blog: "2006-01-02"
+  time_format_default: "2006-01-02 15:04PM Mon"
+
+  # Search settings
+  offlineSearch: true
+  offlineSearchSummaryLength: 70
+  offlineSearchMaxResults: 10
+
+  links:
+    user:
+      - name: "User mailing list"
+        url: "https://github.com/luohu1"
+        icon: "fa fa-envelope"
+    developer:
+      - name: "GitHub"
+        url: "https://github.com/luohu1"
+        icon: "fab fa-github"
+
+# Language definitions.
+languages:
+  zh:
+    # title: ""
+    # description: ""
+    languageName: "中文 Chinese"
+    weight: 1
+    contentDir: "content/zh"
+    menu:
+      main:
+        - name: Documentation
+          url: "/docs"
+          weight: 10
+        - name: Blogs
+          url: "/blog"
+          weight: 20
+        - name: About
+          url: "/about"
+          weight: 30
