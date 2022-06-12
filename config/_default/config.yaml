@@ -38,6 +38,9 @@ params:
   offlineSearchSummaryLength: 70
   offlineSearchMaxResults: 10
 
+  ui:
+    footer_about_disable: true
+
   links:
     user:
       - name: "User mailing list"
