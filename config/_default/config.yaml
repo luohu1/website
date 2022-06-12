@@ -7,8 +7,8 @@ metaDataFormat: "yaml"
 # sectionPagesMenu: "main"
 
 # Language settings
-contentDir: "content/zh"
-defaultContentLanguage: "zh"
+contentDir: "content/zh-cn"
+defaultContentLanguage: "zh-cn"
 defaultContentLanguageInSubdir: false
 
 # Highlighting config.
@@ -50,12 +50,12 @@ params:
 
 # Language definitions.
 languages:
-  zh:
+  zh-cn:
     # title: ""
     # description: ""
     languageName: "中文 Chinese"
     weight: 1
-    contentDir: "content/zh"
+    contentDir: "content/zh-cn"
     menu:
       main:
         - name: Documentation
