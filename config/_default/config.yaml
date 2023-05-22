@@ -1,6 +1,10 @@
 baseURL: "/"
 title: "Website"
 
+archetypeDir: "archetypes"
+assetDir: "assets"
+contentDir: "content"
+
 theme: ["docsy"]
 
 metaDataFormat: "yaml"
