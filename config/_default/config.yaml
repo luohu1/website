@@ -1,17 +1,18 @@
 baseURL: "/"
 title: "Website"
 
+# contentDir: "content"
 archetypeDir: "archetypes"
 assetDir: "assets"
-contentDir: "content"
 
 theme: ["docsy"]
+themesDir: "themes"
 
 metaDataFormat: "yaml"
 # sectionPagesMenu: "main"
 
 # Language settings
-contentDir: "content/zh-cn"
+# contentDir: "content/zh-cn"
 defaultContentLanguage: "zh-cn"
 defaultContentLanguageInSubdir: false
 
@@ -24,10 +25,19 @@ pygmentsStyle: "emacs"
 permalinks:
   blog: "/:section/:year/:month/:day/:filename/"
 
+# Markdown handler settings.
 markup:
+  defaultMarkdownHandler: goldmark
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    anchorLineNos: false
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
 
 params:
   copyright: "LH"

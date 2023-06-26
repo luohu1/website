@@ -4,8 +4,8 @@
   "description": "Website and Documentation",
   "main": "index.js",
   "devDependencies": {
-    "autoprefixer": "^10.4.4",
-    "postcss": "^8.4.12",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.24",
     "postcss-cli": "^8.3.1"
   },
   "scripts": {
